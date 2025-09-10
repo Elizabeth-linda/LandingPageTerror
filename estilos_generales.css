@@ -2,8 +2,7 @@
 body {
   margin: 0;
   font-family: 'Roboto', sans-serif;
-  background: url("./img/cementeriohalloween.jpg") no-repeat center center fixed;  background-size: cover;
-  color: #f5f5f5;
+  background: url("img/cementeriohalloween.jpg") no-repeat center center fixed;  color: #f5f5f5;
   line-height: 1.6;
 }
 
